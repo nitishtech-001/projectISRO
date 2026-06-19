@@ -7,3 +7,15 @@ This repository contains a pure-software solution built to solve critical, data-
 1. Krish
 2. Nitish
 3. Shahnewaz ([@heysanzu](https://github.com/heysanzu))
+
+## Directory Tree
+```text
+├── data/                 # Local sample data logs and geospatial files.
+├── src/                  # Primary source application logic.
+│   ├── analytics/        # Pure Python computation algorithms and data models.
+│   ├── api/              # Endpoint controllers linking data to web layers.
+│   └── frontend/         # Interactive JavaScript/React interface components.
+├── tests/                # Unit test suites written for data verification.
+├── README.md             # Project roadmap and documentation.
+└── requirements.txt      # Registered dependency manifest file.
+```
