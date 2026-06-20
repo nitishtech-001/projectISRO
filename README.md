@@ -7,7 +7,7 @@ This repository contains a pure-software solution built to solve critical, data-
 1. Krish
 2. Nitish
 3. Shahnewaz ([@heysanzu](https://github.com/heysanzu))
-4. Sammi
+4. Shammi
 
 ## Directory Tree
 ```text
